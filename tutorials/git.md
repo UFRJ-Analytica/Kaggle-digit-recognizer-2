@@ -2,6 +2,8 @@
 
 ## Termos principais 
 
+OI
+
 <br>
 
 ```repositório ou repository ou repo:``` pasta principal, o repositório do Github
